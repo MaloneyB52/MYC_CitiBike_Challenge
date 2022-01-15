@@ -1,9 +1,14 @@
+Link to Dashboards
+
+https://public.tableau.com/app/profile/michael.maloney4887/viz/NYCitiBike_Challenge_Maloney/TripsbyWeekdayperHour
+
+https://public.tableau.com/app/profile/michael.maloney4887/viz/NYCitiBike_Challenge/TripsbyGenderweekdayperhour
+
+
+
+
+
 # NYC_CitiBike_Challenge
-
-
-Link to dashboards 
-
-https://public.tableau.com/app/profile/michael.maloney4887/viz/NYCCitiBike_16376338512330/TopStartingLocations
 
 Screen shots attached (also tabbed and lableled in Tableau Public files. Citi_BikeStory_Module_Challenge)
 
